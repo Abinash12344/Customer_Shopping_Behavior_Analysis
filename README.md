@@ -190,6 +190,4 @@ jupyter notebook
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-LinkedIn: Add your LinkedIn profile link
 
-GitHub: Add your GitHub profile link
