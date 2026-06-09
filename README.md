@@ -116,10 +116,8 @@ Dashboard Features:
 
 ## Dashboard Preview
 
-
-```markdown
 ![Dashboard](screenshots/dashboard.png)
-```
+
 
 ---
 
